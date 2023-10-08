@@ -13,4 +13,5 @@ add_executable(factorial1 sunday/factorial1.c)
 add_executable(aria_triunghi sunday/aria_triunghi.c)
 add_executable(max_position sunday/max_position.c)
 add_executable(vocale sunday/vocale.c)
-
+add_executable(sort_array sunday/sort_array.c)
+add_executable(invers_vocale sunday/invers_vocale.c)
