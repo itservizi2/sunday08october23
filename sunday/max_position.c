@@ -1,4 +1,4 @@
-//Scrie un program în C care sa gasească si să afișeze valoarea maximă si pozitiile acesteia intr-un array.
+//Scrie un   program în C care sa gasească si să afișeze valoarea maximă si pozitiile acesteia intr-un array.
 #include <stdio.h>
 
 int main() {
